@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Lilly's new prophecy, or, Several strange and wonderful predictions of such things that have and are yet to happen, as well in England, Scotland, and France as in remote countrys being left as his last legacy to the world, the like not having been published before.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48507</idno><idno type="EEBO-CITATION">15699705</idno>
+  <idno type="VID">104453</idno>
+  <idno type="EEBO-PROQUEST">2248523435</idno>
+  
+            <idno type="STC">Wing L2231</idno>
+            <idno type="STC">ESTC R36476</idno>
+            <idno type="OCLC">15699705</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104453)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Lilly's new prophecy, or, Several strange and wonderful predictions of such things that have and are yet to happen, as well in England, Scotland, and France as in remote countrys being left as his last legacy to the world, the like not having been published before.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Heathcoat,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prophecies (Occultism)</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104453:1"/>
+            <p>Mr. <hi>LILLY</hi>'s New Prophecy; OR, Several Strange and Wonderful PREDICTIONS OF Such things that have and are as yet to Hap<g ref="char:EOLhyphen"/>pen, as well in <hi>England, Scotland,</hi> and <hi>France,</hi> as in Remote Countrys.</p>
+            <p>Being left as his Last LEGACY to the WORLD.</p>
+            <p>The Like not having been Published before.</p>
+            <p>
+               <hi>Lege &amp; Judica.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Heathcoat,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104453:2"/>
+            <pb n="3" facs="tcp:104453:2"/>
+            <head>Mr. <hi>LILLY</hi>'s New Prophecy.</head>
+            <p>THat by the the Intelligences and Order of the Ce<g ref="char:EOLhyphen"/>lestial Bodys (if exactly observed in their several Aspects and Revolutions) there is signified or Predicted to the Sons of men the Pleasure of the All-wise Creator. Many Learned Astrologers, as also Divines of all ages, have, and do affirm; for the Heavens are as a Scrole in which the Starry Characters are as it were Ingraven for this Habitable World to read, that so by foreknowledge of what shall come to pass, they may endeavour by a sincere Repentance and turning away from sin, to avert the Impendent Judgment, or be prepared to receive the Lords Chastisement with patience, at what time it shall be Pleasure to punish a Nation or People: But amongst all the Learned and Judicious men this Kingdom has Aforded in the Art of Astrology, none have been better seen then the ever famous Mr. <hi>Lilly,</hi> whose Predictions may well be termed Prophecys for the verity in many of his Observations; for they have as exactly come to pass, as if they had been delivered by the <hi>Del<g ref="char:EOLhyphen"/>phick</hi> Oracle so much esteemed of Old, to whom the wandering World resorted for Instructions of what was to come. But to our purpose.</p>
+            <div n="1" type="prognostication">
+               <pb n="4" facs="tcp:104453:3"/>
+               <head>Prediction <hi>I.</hi>
+               </head>
+               <p>In the Year 1681. says he, by reason of the Malign Aspect of <hi>Saturn</hi> in Oppos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion to <hi>Jupiter,</hi> there shall arise great Animosities and causeless mistrust, the Giddy-headed multitude shall be tempted with, by such as love to fish in troubled Waters, so that the Stable shall begin to doubt and interpret things in the wor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Sense, but then, when its least look'd, shall the face of things be turned about as it were by Miracle, the evil Influence being once over<g ref="char:EOLhyphen"/>come by the mild and benign influence of <hi>Jupiter</hi> the Fa<g ref="char:EOLhyphen"/>vorour of Princes; then says he shall mens eyes be open<g ref="char:EOLhyphen"/>ed, and they shall plainly discern how they have been mislead, and almost perswaded to run upon their own destruction, then shall there be a right understanding, and <hi>England</hi> shall be intirely happy; and such as went about to sow Sedition, be unmasqued, and in due time be brought to punishment, so that happy days of Peace and plenty may ensue.</p>
+               <p>Now what can be more plain, have not we seen this fulfilled to a tittle? were there not Animos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ties and grudgings, did not evil disposed men make it their busi<g ref="char:EOLhyphen"/>ness to incense the People, and possess them with needless fears and jealousies? nay such there were as durst presume to Censure matters of State, and as much as in them lay endeavoured to bring about their wicked purposes by in<g ref="char:EOLhyphen"/>veighing against the best of Kings, then whom Heaven cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d never have bestowed a greater Blessing on these Kingdoms, who as a true <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ender of the Faith, stands the Sacred Bullwork of Christ Church, to guard her from the Rage and reitterated Assaults of Popery and Schism: For which may Heaven grant him here length of days,
+<pb n="5" facs="tcp:104453:3"/> and hereafter Crown him with a Crown of Everlasting Life, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="2" type="prognostication">
+               <head>
+                  <hi>Prediction</hi> II.</head>
+               <p>Let the Protestants in <hi>France,</hi> says he, beware, for some Evil is portended by the Effects of Blazing Comet, if not prevented by the Relenting of the Divine Power, may chance to be manifested in the Southern Kingdoms, some Person whose Expectations have been frustrated, may turn the current of their Revenge to the Persecution of the Reformed Churches. In those parts the implacable malice of the Antichrist will be restless till he find means to work mischief in the Earth, many may be forced to abandon their Habitations, Houses shall be left de<g ref="char:EOLhyphen"/>solate and Vineyards laid wast. About 82 let <hi>Italy</hi> be<g ref="char:EOLhyphen"/>ware least a Tempest fall thereon, and that the War that has so long harrazed the Neighbouring Kings be not trans<g ref="char:EOLhyphen"/>ported thither. Let <hi>Moscovy</hi> expect a Peace about this time, for the <hi>Turks</hi> may chance to be imployed in other Affairs. And let them beware least <hi>Persia</hi> prove some<g ref="char:EOLhyphen"/>what troublesom to that spreading Empire.</p>
+               <p>As to this we cannot chuse but take notice, how the former part of the Prediction, or rather Prophecy, has happened in Relation to the Distress of the Reformed Churches now suffering under the Tyranny of Popish Cruelty, who have and do hold even unto Death all such as sincerely Profess Christs Gospel, and seek the utter ruine of all that will not comply with their Idolatrous Worship, and will not be content to fall down to the Idol of the Mass, the which, though all men of Reason or Sense know to be only Bread, they will have to be estee<g ref="char:EOLhyphen"/>med no less then God the Son our ever Blessed Saviour,
+<pb n="6" facs="tcp:104453:4"/> and for not complying with that wicked Tenent of Tran<g ref="char:EOLhyphen"/>substantiation, and other the like, they are not only de<g ref="char:EOLhyphen"/>prived of their Lands and Livings, but forced to be Fugi<g ref="char:EOLhyphen"/>tives, their Children taken from them and compelled to Worship Images, to fall down to Stocks and Stones, for refusing which, in the <hi>Marean</hi> Persecution, no less then 430 suffer'd by fire in <hi>England,</hi> and in the Reign of <hi>Char<g ref="char:EOLhyphen"/>les</hi> the 9th French King by the said Kings Command in the Cityes of <hi>Paris, Orleance, Tholouse, Roven,</hi> and General<g ref="char:EOLhyphen"/>ly throughout all the Cityes of <hi>France,</hi> were Massacred and most Barborously murther'd little less then 40000 Prote<g ref="char:EOLhyphen"/>stants, the Bloody Tyrants regarding neither Sex nor Age; many of which they lead to slaughter houses, and there after they had fell'd them with <hi>Butchers</hi> Axes cut their throats, so that not only the Pavements blushed, but the Channels were overflowed with blood of Innocents, and at the City of <hi>Tours,</hi> one <hi>Bartholomew Chartlet</hi> undertook to murther 30 in one Prison, where himself was also a Pri<g ref="char:EOLhyphen"/>soner for debt; the which Bloody Act the <hi>Hangman</hi> had so much Conscience as to refuse? but this Fellow (for his paines) had his debts pay'd by the Papists, and was set at Liberty. This is the <hi>Babilon</hi> that persecutes the Saints; and this I only take notice of by the way to let the Read<g ref="char:EOLhyphen"/>er see, how Cruel these kind of men are, who in Cool Blood without either provocation, or process in Law could murther such a number of Innocents. <hi>God</hi> of his infinite mercy defend the poor Protestants, aginst whom they have already begun to vent their malice, and rage from the like fate? As for the other part of this Prediction, there is very much likelyhood of their coming to pass: but in that case We must not proceed any further, but leave the event to time, to bring all things to Light.</p>
+            </div>
+            <div n="3" type="prognostication">
+               <pb n="7" facs="tcp:104453:4"/>
+               <head>Prediction. <hi>III.</hi>
+               </head>
+               <p>About the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egining of <hi>August</hi> 1681 (sayes he) you may expect to hear happy tideings from the Northern parts, Peoples hearts will be revived: Tradeing will encrease, and many happy dayes be towards? good Laws the support both of Kingdoms, and Common-Wealths, may about this time be had in great regard, though contrary to the will of some: the cloud, that hover'd, shal be dis<g ref="char:EOLhyphen"/>pelled, and many things, that lay as it were hid, may be revealed. the Celestial Configurations seem to smile upon these Isles, and all things concur to make us happy, Ma<g ref="char:EOLhyphen"/>nufacture shal be cherished, and plenty in Abundance will as it were slow from all parts.</p>
+               <p>That this is meant of the Kingdome of <hi>Scotland,</hi> and the Affairs there as well as of <hi>England</hi> is not to be doubt<g ref="char:EOLhyphen"/>ed, and how prosperous they have been I think few or none are Ignorant, though contrary to the expectations of the Factious and evil disposed persons, but such is the goodness of the Almighty, who, when he first created this round world drew order from disorder, and out of a rude and confused Chaos Composed of varying Elements framed the Glorious Archietecture of the Star-spangled Skyes, that he can make all things comply for our ad<g ref="char:EOLhyphen"/>vantage if we will but serve him, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="4" type="prognostication">
+               <head>Prediction <hi>IV.</hi>
+               </head>
+               <p>About Autumn in the year of our Redemption, 1681. we may chance to hear of some important places Besieged and taken, if not in time relieved, which may occasion no small stir, and perhaps be a means to embroyl our
+<pb n="8" facs="tcp:104453:5"/> Neighbouring Kingdomes in new troubles, that have so lately smarted under a tedious War, and all to please in<g ref="char:EOLhyphen"/>satiate ambition.</p>
+               <p>About the begining of the year 1682 expect to hear of pleasing news from most parts; grave Counsellors shall be had in great esteem, Who by their discerning judgments and profound wisedom may frustrate the designes of our restless Adversaries, who omit no endeavours to bring a<g ref="char:EOLhyphen"/>bout their Wicked purposes; healing Synods perchance may assemble about this time to the no smal advancement of peace in Christendome, and to the establishing a right understanding between potentates, let <hi>Hungaria</hi> beware of the <hi>Otman</hi> power for some treachery may be brought to light <hi>&amp;c.</hi>
+               </p>
+               <p>This may we see how by his long Experience, and discerning judgment: this man so far conversed with the Celestial Bodies or Planitary Orbs as to draw knowledg of future Events from thence, Which have not failed to come (most of them to pass) which may the rather in<g ref="char:EOLhyphen"/>duce us to believe whatever yet remains imperfect, and to have a venerable esteem for his memory; who was (as we may term him) our English Oracle, and the greatest Master in Astrology this Age affords.</p>
+            </div>
+            <epigraph>
+               <q>
+                  <l>Who Dying left this as his latest Will,</l>
+                  <l>The profound Pattern of his Wondrous Skill.</l>
+                  <l>That after Ages should Admire his Worth</l>
+                  <l>Which Fame so loud of late does Trumpet forth,</l>
+                  <l>Was so acquainted with the Starry Frame,</l>
+                  <l>That <hi>Atlas</hi> like, he's said to bear the fame.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
